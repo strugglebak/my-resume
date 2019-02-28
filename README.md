@@ -14,8 +14,8 @@
  - 蒋海涛/男/1994 
  - 本科/桂林电子科技大学(2013.9-2017.6)
  - 工作年限：1年
- - 技术博客：<u>[https://strugglebak.github.io](https://strugglebak.github.io)</u>
- - Github：<u>[https://github.com/strugglebak](https://github.com/strugglebak)</u>
+ - **技术博客**：<u>[https://strugglebak.github.io](https://strugglebak.github.io)</u>
+ - **Github**：<u>[https://github.com/strugglebak](https://github.com/strugglebak)</u>
  - 期望职位：前端开发工程师
 
 # 开源项目和作品
