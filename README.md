@@ -1,7 +1,6 @@
 
 # 联系方式
 
-- 手机：15502093665
 - Email：strugglebak@gmail.com
 - 微信号：linkeng1984
 
