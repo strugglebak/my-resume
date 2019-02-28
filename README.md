@@ -15,7 +15,7 @@
  - 工作年限：1年
  - **技术博客**：<u>[https://strugglebak.github.io](https://strugglebak.github.io)</u>
  - **Github**：<u>[https://github.com/strugglebak](https://github.com/strugglebak)</u>
- - 期望职位：前端开发工程师
+ - 期望职位：**前端开发**工程师
 
 # 开源项目和作品
 
