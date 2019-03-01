@@ -24,7 +24,7 @@
 ### min-wheel - 小型 UI 框架 - 2019.01
 
 <div align="left">
-<a href="http://strugglebak.com/min-wheel/">
+<a href="https://strugglebak.github.io/min-wheel/">
 <img src="https://i.loli.net/2019/02/28/5c776eec17980.png" width="400">
 </a>
 </div>
@@ -35,12 +35,12 @@
 
 - 技术栈: Vue + Vue Component Registration + Vue Props + Vue Slots + Vue Plugins + SCSS + NPM + Parcel + Karma + Mocha + Sinon + Travis CI + Vuepress
 
-- <u>关于这个项目的使用的细节查看请移步: [min-wheel 文档链接](http://strugglebak.com/min-wheel/)</u>
+- <u>关于这个项目的使用的细节查看请移步: [min-wheel 文档链接](http://strugglebak.github.io/min-wheel/)</u>
 
 ### music - 文件管理 + 音乐集成应用 - 2019.01
 
 <div align="left">
-<a href="http://strugglebak.com/musci/src/admin">
+<a href="http://strugglebak.github.io/musci/src/admin">
 <img src="https://i.loli.net/2019/02/28/5c7777fbb65ff.jpg" width="400">
 </a>
 </div>
