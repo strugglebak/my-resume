@@ -16,7 +16,7 @@
 <ul>
 <li>蒋海涛/男/1994</li>
 <li>本科/桂林电子科技大学(2013.9-2017.6)</li>
-<li>工作年限：1年</li>
+<li>工作年限：2年</li>
 <li><strong>技术博客</strong>：<u><a href="https://strugglebak.github.io">https://strugglebak.github.io</a></u></li>
 <li><strong>Github</strong>：<u><a href="https://github.com/strugglebak">https://github.com/strugglebak</a></u></li>
 <li>期望职位：<strong>前端开发</strong>工程师</li>
@@ -98,6 +98,10 @@
 
 ## 工作经历
 
+### 广州光大教育软件科技股份有限公司 - 2019年4月 ~ 至今（前端工程师）
+#### 易学习项目（移动端以及 PC 端）
+主要负责易学习 App 项目中 **错题集模块**, **图书借阅模块** 以及 **学生周报模块** 的 **移动端方面** 的开发，其中涉及到了图片的上传，相机拍照，与 IOS/Android 原生交互的部分，也有对数据使用 **Echart.js** 和 **Hightchart.js** 进行前端的 **可视化操作**，API 交互方面主要使用了 **Express 4.X** 框架作为中间件开发，
+
 ### 天启智能科技有限公司(广东中山) - 2017年9月 ~ 2018年9月
 
 #### 4G 腰包项目
@@ -107,6 +111,7 @@
 主要负责基于 RK3399 Kubernetes 集群项目的搭建,使用了 docker 底层容器技术,封装常用基于 ARM 架构的 docker 镜像,网络性能瓶颈测试等
 
 ## 技能清单
+- Node 框架 : 
 - 小程序制作 : 可独立进行小程序开发,熟悉小程序基础组件的使用,熟悉小程序数据缓存,页面路由等相关 API 的使用
 - Vue：熟悉 Vue 的常用功能如双向绑定,槽等, 对 Vue 的组件化有一定的实践,可以独立进行 Vue 相关组件的开发
 - jQuery: 熟悉 jQuery 常用 API,能够使用 jQuery 独立开发网站以及一些常见组件如轮播组件, Tab 组件等
