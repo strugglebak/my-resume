@@ -29,10 +29,10 @@
 
 ### min-wheel - 小型 UI 框架 - 2019.01
 
-<div style="overflow: hidden;">
-<div style="float: left; padding: 50px 0;">
+<div style="overflow: hidden;margin-bottom: 80px;">
+<div style="float: left; padding: 0px 0;">
 <a href="http://strugglebak.github.io/min-wheel/" style="display: inline-block;">
-<img src="https://i.loli.net/2019/02/28/5c776eec17980.png" width="140">
+<img src="https://i.loli.net/2019/02/28/5c776eec17980.png" width="100">
 </a>
 </div>
 <div style="float: right; width: 80%;">
@@ -45,12 +45,13 @@
 </div>
 </div>
 
+
 ### music - 文件管理 + 音乐集成应用 - 2019.01
 
-<div style="overflow: hidden; margin-bottom: 100px;">
-<div style="float: left; padding: 50px 0;">
+<div style="overflow: hidden; margin-bottom: 80px;">
+<div style="float: left; padding: 0px 0;">
 <a href="http://strugglebak.github.io/musci/src/admin" style="display: inline-block;">
-<img src="https://i.loli.net/2019/02/28/5c7777fbb65ff.jpg" width="140">
+<img src="https://i.loli.net/2019/02/28/5c7777fbb65ff.jpg" width="100">
 </a>
 </div>
 <div style="float: right; width: 80%;">
@@ -63,15 +64,15 @@
 </div>
 </div>
 
+
 ### mvvm - 仿 Vue.js 极简框架 - 2019.02
 
 <div style="overflow: hidden;">
-<div style="float: left; padding: 50px 0;">
+<div style="float: left; padding: 0px 0;">
 <a href="https://strugglebak.github.io/mvvm/index" style="display: inline-block;">
-<img src="https://i.loli.net/2019/02/28/5c777df458d7f.png" width="140">
+<img src="https://i.loli.net/2019/02/28/5c777df458d7f.png" width="100">
 </a>
 </div>
-
 <div style="float: right; width: 80%;">
 <ul>
 <li><u><a href="https://github.com/strugglebak/mvvm">mvvm</a></u> 是一个简易的 mvvm 框架,这里借鉴了 Vue 的设计中的一些思想, 主要实现了数据的劫持,数据的单向绑定和双向绑定,指令的解析等功能,关于对象的封装选择采用 ES5/ES6,使用更加简便的语法实现较为复杂的设计模式,力求思路直白清晰.</li>
@@ -81,12 +82,12 @@
 </div>
 </div>
 
+
 ### wx-translate - 小程序翻译应用 - 2019.02
 <div style="overflow: hidden;">
-<div style="float: left; padding: 50px 0;">
-<img src="https://i.loli.net/2019/02/27/5c7656307e497.jpeg" width="140">
+<div style="float: left; padding: 0px 0;">
+<img src="https://i.loli.net/2019/02/27/5c7656307e497.jpeg" width="100">
 </div>
-
 <div style="float: right; width: 80%">
 <ul>
 <li><u><a href="https://github.com/strugglebak/wx-translate">wx-translate</a></u> 这是一个基于微信小程序平台的翻译小工具,支持英、中、日、韩、法、西班牙、阿拉伯语言的在线翻译,支持语言类型的自动识别,支持历史记录的保留和查看,支持多行输入翻译等功能,后端 API 主要使用百度翻译,翻译失败提示采用小程序自带 API 实现.</li>
@@ -95,6 +96,7 @@
 </ul>
 </div>
 </div>
+
 
 ## 工作经历
 
