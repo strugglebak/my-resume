@@ -7,6 +7,7 @@
 </ul>
 
 
+
 ## 个人信息
 <div style="overflow: hidden;">
 <div style="float: right">
@@ -17,12 +18,13 @@
 <li>蒋海涛/男/1994</li>
 <li>本科/桂林电子科技大学(2013.9-2017.6)</li>
 <li>工作年限：2年</li>
-<li><strong>技术博客</strong>：<u><a href="https://strugglebak.github.io">https://strugglebak.github.io</a></u></li>
-<li><strong>Github</strong>：<u><a href="https://github.com/strugglebak">https://github.com/strugglebak</a></u></li>
+<li><strong>技术博客：</strong><u><a href="https://strugglebak.github.io">https://strugglebak.github.io</a></u></li>
+<li><strong>Github：</strong><u><a href="https://github.com/strugglebak">https://github.com/strugglebak</a></u></li>
 <li>期望职位：<strong>前端开发</strong>工程师</li>
 </ul>
 </div>
 </div>
+
 
 
 ## 开源项目
@@ -46,6 +48,7 @@
 </div>
 
 
+
 ### music - 文件管理 + 音乐集成应用 - 2019.01
 
 <div style="overflow: hidden; margin-bottom: 80px;">
@@ -65,9 +68,10 @@
 </div>
 
 
+
 ### mvvm - 仿 Vue.js 极简框架 - 2019.02
 
-<div style="overflow: hidden;">
+<div style="overflow: hidden;margin-bottom: 60px;">
 <div style="float: left; padding: 0px 0;">
 <a href="https://strugglebak.github.io/mvvm/index" style="display: inline-block;">
 <img src="https://i.loli.net/2019/02/28/5c777df458d7f.png" width="100">
@@ -83,8 +87,9 @@
 </div>
 
 
+
 ### wx-translate - 小程序翻译应用 - 2019.02
-<div style="overflow: hidden;">
+<div style="overflow: hidden;margin-bottom: 60px;">
 <div style="float: left; padding: 0px 0;">
 <img src="https://i.loli.net/2019/02/27/5c7656307e497.jpeg" width="100">
 </div>
@@ -98,16 +103,17 @@
 </div>
 
 
+
 ## 工作经历
 
 ### 广州光大教育软件科技股份有限公司 - 2019年4月 ~ 2019年10月（前端工程师）
 #### 易学习项目（移动端）
 主要负责易学习 App 项目中 **错题集模块**, **图书借阅模块** 以及 **学生周报模块** 的 **移动端方面** 的开发，其中涉及到了图片的上传，相机拍照等与 IOS/Android 原生交互的部分，也有对数据使用 **EChart.js** 和 **HightChart.js** 进行前端的 **可视化操作**，API（前后端通信）交互方面主要使用了 **Express 4.X** 框架作为中间件，通过封装 connect-multiparty 实现了图片的上传功能
 
-#### 资源中心（PC 端）
+#### 资源中心项目（PC 端）
 主要负责资源中项目中 **教师端错题集模块** 的 **PC端方面** 的开发，使用的技术栈是 **juicer** 模板渲染引擎以及 **jQuery**，同时还用到了 **Layui** 前端 UI 框架构建部分界面样式。其中改造错题功能方面使用了 **wangEditor** 来进行题目的编辑
 
-#### 智慧校园（PC 端）
+#### 智慧校园项目（PC 端）
 主要负责智慧校园项目中 **学生首页** 的 **PC端方面** 的开发，整个页面使用嵌套 iframe 的形式实现，因此对 iframe 中的内容有做 PC 端兼容的处理。同时也做了页面组件化的工作，将页面不同部分抽离出来，降低了页面的耦合度
 
 ### 天启智能科技有限公司(广东中山) - 2017年9月 ~ 2018年9月 （软件工程师）
