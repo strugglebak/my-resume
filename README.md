@@ -129,7 +129,7 @@
 - 设计模式 : 理解常见设计模式如 MVC, MVVM 等,对 MVC 和 [MVVM](https://github.com/strugglebak/mvvm) 模式有一定的实践
 - HTML 5 && CSS 3 : 能结合 HTML5跟 CSS3独立制作精美网页，熟悉 CSS 动画，响应式等常用技术
 - 移动端：会使用动态 REM、媒体查询、vm/vh 等实现移动端页面
-- 前端工具：熟悉 NPM/Git/SVN/Parcel/SASS/SCSS/Travis CI 持续集成等前端常用工具,了解 webpack 打包技术
+- 前端工具：熟悉 NPM/Git/SVN/Parcel/Stylus/SASS/SCSS/Travis CI 持续集成等前端常用工具,了解 Webpack/RollUp 等打包技术
 
 ## 获奖经历
 
