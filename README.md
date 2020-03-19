@@ -43,7 +43,7 @@
 </div>
 </div>
 
-### watermelon-clock - 基于 React + TypeScript 西瓜闹钟 - 2020.03
+### watermelon-clock - 基于 React + TypeScript 的西瓜闹钟 - 2020.03
 
 <div style="overflow: hidden;">
 <div style="float: left; padding: 0px 0;">
@@ -109,7 +109,7 @@
 
 ### 天启智能科技有限公司(广东中山) - 2017年9月 ~ 2018年9月 （前端工程师）
 
-### 公司官网项目
+#### 公司官网项目
 主要负责公司官网服务器的日常维护，基于 **jQuery** 编写官网的日常组件(tab 组件、轮播组件)，修复页面 bug，根据公司内部需求开发官网论坛相关组件，修复公司内部文档生成器的一些 bug 等
 
 #### 4G 腰包项目
