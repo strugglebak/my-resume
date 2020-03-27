@@ -53,7 +53,7 @@
 </div>
 <div style="float: right; width: 80%;">
 <ul>
-<li><u><a href="https://github.com/strugglebak/watermelon-clock">watermelon-clock</a></u> 是一个轻量级单页在线待办事项管理应用，支持大小事项管理，支持注册登陆，支持增删查改，云同步，任务分页预览等功能。采用 <strong>React</strong> + <strong>TypeScript</strong> 最新生态，打造最好用的闹钟 Todo</li>
+<li><u><a href="https://github.com/strugglebak/watermelon-clock">watermelon-clock</a></u> 是一个轻量级单页在线待办事项管理应用，支持大小事项管理，支持注册登陆，支持增删查改，云同步，任务分页预览等功能。采用 <strong>React</strong> + <strong>TypeScript</strong> 最新生态，打造最好用的闹钟 Todo。</li>
 <li>技术栈: <strong>React</strong> + <strong>TypeScript</strong> + <strong>Antd4</strong> + Redux + React Redux + Stylus + React Router DOM V5 + CRA</li>
 <li><u><strong>项目更多介绍+问题+解决方案请移步：</strong><a href="https://strugglebak.github.io/2020/03/17/watermelon-clock-%E5%9F%BA%E4%BA%8ETypeScript-React%E7%9A%84%E8%A5%BF%E7%93%9C%E9%97%B9%E9%92%9F%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93/">watermelon-clock 链接</a></u></li>
 </ul>
@@ -70,7 +70,7 @@
 </div>
 <div style="float: right; width: 80%;">
 <ul>
-<li><u><a href="https://github.com/strugglebak/min-wheel">min-wheel</a></u> 是一个轻巧好用的 <strong>Vue</strong> UI 框架,基于 Vue@2 实现,拥有丰富的<strong>单元测试</strong>用例,内部应用了 Vue 的大部分接口,可通过该框架快速搭建一个单页 SPA.</li>
+<li><u><a href="https://github.com/strugglebak/min-wheel">min-wheel</a></u> 是一个轻巧好用的 <strong>Vue</strong> UI 框架，基于 Vue@2 实现，拥有丰富的<strong>单元测试</strong>用例，内部应用了 Vue 的大部分接口，可通过该框架快速搭建一个单页 SPA 。</li>
 <li>文档部署: <strong>Node</strong> + Vuepress + Vue-Server-Renderer</li>
 <li>技术栈: <strong>Vue</strong> + Vue Component Registration + Vue Props + Vue Slots + Vue Plugins + SCSS + NPM + Parcel + Unit Test + Travis CI + Vuepress</li>
 <li><u><strong>关于这个项目的使用的细节查看请移步:</strong> <a href="http://strugglebak.github.io/min-wheel/">min-wheel 文档链接</a></u></li>
@@ -86,7 +86,7 @@
 </div>
 <div style="float: right; width: 80%">
 <ul>
-<li><u><a href="https://github.com/strugglebak/wx-translate">wx-translate</a></u> 这是一个基于<strong>微信小程序</strong>平台的翻译小工具,支持英、中、日、韩、法、西班牙、阿拉伯语言的在线翻译,支持语言类型的自动识别,支持历史记录的保留和查看,支持多行输入翻译等功能,后端 API 主要使用百度翻译,翻译失败提示采用小程序自带 API 实现.</li>
+<li><u><a href="https://github.com/strugglebak/wx-translate">wx-translate</a></u> 这是一个基于<strong>微信小程序</strong>平台的翻译小工具，支持英、中、日、韩、法、西班牙、阿拉伯语言的在线翻译，支持语言类型的自动识别，支持历史记录的保留和查看，支持多行输入翻译等功能，后端 API 主要使用百度翻译，翻译失败提示采用小程序自带 API 实现。</li>
 <li>技术栈: 页面注册 + 模块化 + 数据响应和绑定 + flex 布局 + Promise 异步控制</li>
 <li><u><strong>更多小程序项目详情以及踩坑记录请点击:</strong> <a href="https://github.com/strugglebak/wx-translate/blob/master/README.md">这个链接</a></u></li>
 </ul>
@@ -113,10 +113,10 @@
 主要负责公司官网服务器的日常维护，基于 **jQuery** 编写官网的日常组件(tab 组件、轮播组件)，修复页面 bug，根据公司内部需求开发官网论坛相关组件，修复公司内部文档生成器的一些 bug 等
 
 #### 4G 腰包项目
-主要负责 4G 腰包项目的开发和维护, Linux 内核修改和定制, 根据客户需求定制 ext4 文件系统,编写测试代码以及 bash 脚本,纂写技术文档等
+主要负责 4G 腰包项目的开发和维护, Linux 内核修改和定制，根据客户需求定制 ext4 文件系统，编写测试代码以及 bash 脚本，纂写技术文档等
 
 #### Kubernetes 集群项目
-主要负责基于 RK3399 Kubernetes 集群项目的搭建,使用了 docker 底层容器技术,封装常用基于 ARM 架构的 docker 镜像,网络性能瓶颈测试等
+主要负责基于 RK3399 Kubernetes 集群项目的搭建，使用了 docker 底层容器技术，封装常用基于 ARM 架构的 docker 镜像，网络性能瓶颈测试等
 
 <div style="margin-bottom: 120px"></div>
 
@@ -132,7 +132,6 @@
 - 前端工具：熟悉 NPM/Git/SVN/Parcel/Stylus/SASS/SCSS/Travis CI 持续集成等前端常用工具，了解 Webpack/RollUp 等打包技术
 
 ## 获奖经历
-
 - 连续两年国家励志奖学金、校级奖学金(2014、2015)
 - CET-4 (530)
 - 计算机二级
