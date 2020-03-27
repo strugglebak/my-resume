@@ -121,15 +121,15 @@
 <div style="margin-bottom: 120px"></div>
 
 ## 技能清单
-- React + TypeScript: 熟悉 React 相关库的使用如 Redux、React-Redux 等，能结合 TypeScript 对基于 React 组件如 Antd 等进行二次开发
+- React + TypeScript : 熟悉 React 相关库的使用如 Redux、React-Redux 等，能结合 TypeScript 对基于 React 组件如 Antd 等进行二次开发
 - Node 框架 : 了解 Express 4.x 轻量级 Node 框架，可基于 Express 二次开发
 - 小程序制作 : 可独立进行小程序开发，熟悉小程序基础组件的使用，熟悉小程序数据缓存、页面路由等相关 API 的使用
-- Vue：熟悉 Vue 的常用功能如双向绑定、槽等，对 Vue 的组件化有一定的实践，可以独立进行 Vue 相关组件的开发
-- jQuery: 熟悉 jQuery 常用 API，能够使用 jQuery 独立开发网站以及一些常见组件如轮播组件，Tab 组件等，[写过基于 jQuery 的开源应用](https://github.com/strugglebak/music)
+- Vue : 熟悉 Vue 的常用功能如双向绑定、槽等，对 Vue 的组件化有一定的实践，可以独立进行 Vue 相关组件的开发
+- jQuery : 熟悉 jQuery 常用 API，能够使用 jQuery 独立开发网站以及一些常见组件如轮播组件，Tab 组件等，[写过基于 jQuery 的开源应用](https://github.com/strugglebak/music)
 - 设计模式 : 理解常见设计模式如 MVC、MVVM 等，对 MVC 和 [MVVM](https://github.com/strugglebak/mvvm) 模式有一定的实践
 - HTML 5 && CSS 3 : 能结合 HTML5跟 CSS3独立制作精美网页，熟悉 CSS 动画，响应式等常用技术
-- 移动端：会使用动态 REM、媒体查询、vm/vh 等实现移动端页面
-- 前端工具：熟悉 NPM/Git/SVN/Parcel/Stylus/SASS/SCSS/Travis CI 持续集成等前端常用工具，了解 Webpack/RollUp 等打包技术
+- 移动端 : 会使用动态 REM、媒体查询、vm/vh 等实现移动端页面
+- 前端工具 : 熟悉 NPM/Git/SVN/Parcel/Stylus/SASS/SCSS/Travis CI 持续集成等前端常用工具，了解 Webpack/RollUp 等打包技术
 
 ## 获奖经历
 - 连续两年国家励志奖学金、校级奖学金(2014、2015)
